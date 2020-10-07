@@ -10,6 +10,7 @@
       }
     },
     "adminPassword": {
+      "DefaultValue": "abhi98014dsA",
       "type": "securestring",
       "metadata": {
         "description": "Password for the Virtual Machine."
