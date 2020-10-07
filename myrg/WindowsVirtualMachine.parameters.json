@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": test
+      "value": "test01global"
     },
     "dnsNameForPublicIP": {
       "value": null
