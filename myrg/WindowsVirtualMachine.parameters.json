@@ -6,7 +6,7 @@
       "value": "test01global"
     },
     "dnsNameForPublicIP": {
-      "value": null
+      "value": "mydns"
     }
   }
 }
